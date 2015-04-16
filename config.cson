@@ -1,5 +1,4 @@
 "*":
-<<<<<<< HEAD
   "exception-reporting":
     userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
   welcome:
@@ -18,21 +17,4 @@
   "linter-jshint": {}
   docblockr: {}
   "autocomplete-plus": {}
-=======
-  editor:
-    invisibles: {}
-    showInvisibles: true
-    showIndentGuide: true
-  core:
-    themes: [
-      "atom-dark-ui"
-      "atom-dark-syntax"
-    ]
-  "save-session":
-    dataSaveFolder: "/home/luiz/.atom/packages/save-session/projects"
-    project: "/home/luiz/.atom"
-    windowX: 0
-    windowY: 24
-    windowWidth: 1920
-    windowHeight: 1056
->>>>>>> f4759496618d350ec95ec7464963355a88360ae5
+
