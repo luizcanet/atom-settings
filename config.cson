@@ -1,24 +1,23 @@
 "*":
-  editor:
-    invisibles: {}
-    showInvisibles: true
-    showIndentGuide: true
+  "exception-reporting":
+    userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
+  welcome:
+    showOnStartup: false
   core:
     themes: [
       "atom-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
-  "save-session":
-    dataSaveFolder: "/home/luiz/.atom/packages/save-session/projects"
-    project: "/home/luiz/.atom"
-    windowX: 0
-    windowY: 24
-    windowWidth: 1920
-    windowHeight: 1056
-  "exception-reporting":
-    userId: "5145da91-a6a9-0ebf-bdec-27766cf493b3"
   welcome:
     showOnStartup: false
   "autoclose-html": {}
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  linter: {}
+  "linter-jshint": {}
+  docblockr: {}
   "autocomplete-plus":
     confirmCompletion: "enter"
+
