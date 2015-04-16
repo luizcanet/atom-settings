@@ -1,1 +1,10 @@
-{}
+'php-sandbox':
+  'title': 'php-sandbox'
+  'paths': [
+    '/home/luiz/dev/php-sandbox'
+  ]
+'mybackbone':
+  'title': 'mybackbone'
+  'paths': [
+    '/home/luiz/dev/mybackbone'
+  ]

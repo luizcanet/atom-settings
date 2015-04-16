@@ -1,9 +1,10 @@
-autocomplete-css@0.4.0
-autocomplete-html@0.3.0
+autoclose-html@0.15.0
+autocomplete-css@0.6.0
+autocomplete-html@0.5.0
 autocomplete-paths@1.0.2
+autocomplete-plus@2.10.0
+autocomplete-snippets@1.2.0
 less-autocompile@1.0.0
-minimap@4.5.0
-open-last-project@0.3.4
+minimap@4.7.6
 project-manager@1.15.5
-save-session@0.11.5
 

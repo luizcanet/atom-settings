@@ -6,7 +6,7 @@
   core:
     themes: [
       "atom-dark-ui"
-      "atom-dark-syntax"
+      "base16-tomorrow-dark-theme"
     ]
   "save-session":
     dataSaveFolder: "/home/luiz/.atom/packages/save-session/projects"
@@ -15,3 +15,10 @@
     windowY: 24
     windowWidth: 1920
     windowHeight: 1056
+  "exception-reporting":
+    userId: "5145da91-a6a9-0ebf-bdec-27766cf493b3"
+  welcome:
+    showOnStartup: false
+  "autoclose-html": {}
+  "autocomplete-plus":
+    confirmCompletion: "enter"
