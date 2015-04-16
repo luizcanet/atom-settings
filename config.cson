@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+    autoHideMenuBar: true
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  linter: {}
+  "linter-jshint": {}
+  docblockr: {}
+  "autocomplete-plus": {}
