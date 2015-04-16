@@ -5,3 +5,4 @@ dev
 .apm
 .npm
 .node-gyp
+projects.cson
