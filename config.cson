@@ -8,8 +8,6 @@
       "atom-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
-  welcome:
-    showOnStartup: false
   "autoclose-html": {}
   editor:
     invisibles: {}
@@ -20,4 +18,3 @@
   docblockr: {}
   "autocomplete-plus":
     confirmCompletion: "enter"
-
