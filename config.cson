@@ -1,6 +1,6 @@
 "*":
   "exception-reporting":
-    userId: "7c321b30-f0cb-00b4-c797-0d1307133fc3"
+    userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
   welcome:
     showOnStartup: false
   core:
@@ -8,10 +8,13 @@
       "atom-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
-    autoHideMenuBar: true
+  "autoclose-html": {}
   editor:
     invisibles: {}
-    fontFamily: "Liberation Mono"
     showIndentGuide: true
     showInvisibles: true
-    zoomFontWhenCtrlScrolling: false
+  linter: {}
+  "linter-jshint": {}
+  docblockr: {}
+  "autocomplete-plus":
+    confirmCompletion: "enter"
