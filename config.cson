@@ -8,6 +8,7 @@
       "atom-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
+    autoHideMenuBar: true
   "autoclose-html": {}
   editor:
     invisibles: {}
@@ -18,3 +19,4 @@
   docblockr: {}
   "autocomplete-plus":
     confirmCompletion: "enter"
+  "atom-ternjs": {}
