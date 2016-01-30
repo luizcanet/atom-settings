@@ -1,16 +1,16 @@
-atom-ternjs@0.7.2
-autoclose-html@0.18.0
+atom-ternjs@0.13.2
+autoclose-html@0.20.0
 autocomplete-paths@1.0.2
 docblockr@0.7.3
-javascript-snippets@1.0.0
+javascript-snippets@1.2.0
 jquery-snippets@11.0.0
 less-autocompile@1.0.0
-linter@1.5.0
-linter-csslint@1.0.5
-linter-htmlhint@0.1.1
-linter-jshint@1.1.5
-linter-less@2.1.0
-minimap@4.13.2
-project-manager@2.1.0
-turbo-javascript@1.1.3
+linter@1.11.3
+linter-csslint@1.2.0
+linter-htmlhint@1.0.2
+linter-jshint@1.2.2
+linter-less@2.3.3
+minimap@4.19.0
+project-manager@2.7.5
+turbo-javascript@1.3.1
 

@@ -6,4 +6,6 @@ dev
 .npm
 .node-gyp
 projects.cson
-
+blob-store
+electron
+nohup.out
