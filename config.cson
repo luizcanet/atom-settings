@@ -1,22 +1,22 @@
 "*":
-  "exception-reporting":
-    userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
-  welcome:
-    showOnStartup: false
+  "atom-ternjs": {}
+  "autoclose-html": {}
+  "autocomplete-plus":
+    confirmCompletion: "enter"
   core:
+    autoHideMenuBar: true
     themes: [
       "atom-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
-    autoHideMenuBar: true
-  "autoclose-html": {}
+  docblockr: {}
   editor:
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
+  "exception-reporting":
+    userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
   linter: {}
   "linter-jshint": {}
-  docblockr: {}
-  "autocomplete-plus":
-    confirmCompletion: "enter"
-  "atom-ternjs": {}
+  welcome:
+    showOnStartup: false
