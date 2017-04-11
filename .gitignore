@@ -5,3 +5,9 @@ storage
 .apm
 .node-gyp
 .npm
+packages
+dev
+projects.cson
+electron
+nohup.out
+recovery

@@ -3,3 +3,37 @@
     telemetryConsent: "limited"
   "exception-reporting":
     userId: "e8fd3614-d6ef-4aa9-b372-c596cb459568"
+    autoHideMenuBar: true
+    disabledPackages: [
+      "linter-eslint"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  "atom-ternjs": {}
+  "autoclose-html": {}
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+  "color-picker":
+    abbreviateValues: true
+    preferredFormat: "HEX"
+  docblockr: {}
+  editor:
+    fontFamily: "Fira Code"
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "32419269-acf1-5dd5-bf1a-52fcc4db8eee"
+  linter:
+    errorPanelHeight: 24
+    showErrorPanel: false
+  "linter-js-standard":
+    showEslintRules: true
+  "linter-jshint": {}
+  minimap: {}
+  "webbox-color":
+    fillColorAsBackground: false
+  welcome:
+    showOnStartup: false
